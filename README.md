@@ -5,6 +5,7 @@ To test:
 1. run the development server
 
 ```bash
+yarn install
 yarn dev
 ```
 
@@ -15,6 +16,8 @@ yarn dev
 - other non-trigger words will get some random sentences from Bot.
 
 3. Demo Video
+
+https://user-images.githubusercontent.com/91700567/192353733-31e3db90-d517-4878-9584-11b41016555d.mov
 
 ## File Structure Convention
 
